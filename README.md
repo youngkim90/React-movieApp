@@ -9,7 +9,7 @@
 
 <h3>특징</h3>
 - 영화에 대한 정보는 https://www.themoviedb.org/ 에서 제공하는 API를 활용했다.<br>
-- React의 Functinal Component 방식으로 제작하였다.<br>
+- React의 Functional Component 방식으로 제작하였다.<br>
 <br><br>
 
 
