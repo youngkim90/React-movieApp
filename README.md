@@ -4,7 +4,7 @@
 <br>
 
 ![image](https://user-images.githubusercontent.com/47030781/119229867-c9aae800-bb54-11eb-8ddf-a2254d5422ab.png)
-<br><
+<br><br><br><hr />
 ![image](https://user-images.githubusercontent.com/47030781/119229905-f65eff80-bb54-11eb-9d64-c44152760451.png)
 
 <h3>특징</h3>
