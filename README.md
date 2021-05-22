@@ -3,9 +3,9 @@
 <h3>React를 활용한 영화정보 사이트 클론 코딩</h3>
 <br>
 
-![image](https://user-images.githubusercontent.com/47030781/119229867-c9aae800-bb54-11eb-8ddf-a2254d5422ab.png)
+![image](https://user-images.githubusercontent.com/47030781/119231405-ae8fa680-bb5b-11eb-84b7-18754cf6fbac.png)
 <br><br><br><hr />
-![image](https://user-images.githubusercontent.com/47030781/119229905-f65eff80-bb54-11eb-9d64-c44152760451.png)
+![image](https://user-images.githubusercontent.com/47030781/119231411-b6e7e180-bb5b-11eb-8fff-591c50d5d802.png)
 
 <h3>특징</h3>
 - 영화에 대한 정보는 https://www.themoviedb.org/ 에서 제공하는 API를 활용했다.<br>
