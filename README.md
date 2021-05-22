@@ -14,7 +14,7 @@
 
 
 <h3>후기</h3>
-- fetch를 활용하여 외부 라이브러리를 불러오는 방식에 대해 공부할 수 있었다.<br>
+- fetch를 활용하여 외부에 자료를 요청하는 방식을 활용해 볼 수 있었다.<br>
 - Functional Component의 Props와 State 활용 방법에 대해 익숙해질 수 있었다.<br>
 - useState와 useEffect 사용법에 대해 익히고 특정 state가 변하는 경우에만 렌더링 되는 방식의 이점을 공부할 수 있었다.<br>
 - antd 라이브러리를 활용하여 간편한 css 작업을 진행해 볼 수 있었다.
