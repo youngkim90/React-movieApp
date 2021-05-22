@@ -1,6 +1,6 @@
 # movieApp
 
-<h3>React를 활용한 영화정보 사이트</h3>
+<h3>React를 활용한 영화정보 사이트 클론 코딩</h3>
 <br>
 
 ![image](https://user-images.githubusercontent.com/47030781/119229867-c9aae800-bb54-11eb-8ddf-a2254d5422ab.png)
